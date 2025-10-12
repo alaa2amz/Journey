@@ -8,8 +8,8 @@ Journey Document
 
 # title لعنة الفرعنة
 ## sub هم هم
-### auth انيس منصور
-#### pub دار المعارف
+* auth انيس منصور
+> pub دار المعارف
 
 # title
 
