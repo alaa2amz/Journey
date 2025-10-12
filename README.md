@@ -6,7 +6,7 @@ Journey Document
 * plan9
 * golang
 
-#title
-##sub
-###auth
-####pub
+# title
+## sub
+### auth
+#### pub
