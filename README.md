@@ -18,3 +18,14 @@ sub
 * auth
 
 @ ggg
+
+
+For most purposes, in the simplest cases, you can think of the search for attributes inherited from a parent class as depth-first, left-to-right, not searching twice in the same class where there is an overlap in the hierarchy. Thus, if an attribute is not found in DerivedClassName, it is searched for in Base1, then (recursively) in the base classes of Base1, and if it was not found there, it was searched for in Base2, and so on.
+
+#gdfg
+
+
+لأغلب الأغراض،
+في أبسط الحالات
+تستطيع أن تفكر في البحث عن القيم المورثة من الكلاس الأب كـ العمق اولاً،
+من اليسار إلى اليمين،
